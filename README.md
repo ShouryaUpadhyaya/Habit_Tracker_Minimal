@@ -1,4 +1,4 @@
-# React + Vite
+# Minimal habit tracker based on recommendations from andrew hubermen podcast
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
